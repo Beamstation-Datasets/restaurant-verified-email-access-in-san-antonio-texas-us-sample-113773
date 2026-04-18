@@ -1,12 +1,12 @@
 {
-  "export_job_id": "a50ca6fe-d50d-4bae-9f26-da8ff5fd74b2",
+  "export_job_id": "481187a0-4742-4f52-836b-b9ddceed157d",
   "id_short": 113773,
-  "published_at": "2026-04-11T07:03:20Z",
+  "published_at": "2026-04-18T07:21:56Z",
   "repo_name": "restaurant-verified-email-access-in-san-antonio-texas-us-sample-113773",
   "sample_asset_name": "beamstation_113773_restaurants-us-tx_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/113773/beamstation_113773_restaurants-us-tx_SAMPLE_DIST.csv",
-  "sample_records": 91,
-  "sample_sha256": "5930185382487ab9be5c8b44381ea619eee0382708bcefb5d08b7e329be63952",
-  "sample_size_bytes": 386869,
-  "total_records": 917
+  "sample_records": 81,
+  "sample_sha256": "5667d0581f5adb7322ba8bc004e11c6f6dc05c79bbfb1008e20c00723cfe0cac",
+  "sample_size_bytes": 346329,
+  "total_records": 817
 }

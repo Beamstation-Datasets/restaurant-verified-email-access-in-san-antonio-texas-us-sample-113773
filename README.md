@@ -1,6 +1,6 @@
 # Restaurant Verified Email Access in San Antonio, Texas, US
 
-> Free BeamStation sample export with 91 rows and masked direct-contact fields.
+> Free BeamStation sample export with 81 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `113773` |
 | Location | San Antonio |
 | Category | Restaurants |
-| Full dataset size | 917 records |
-| Free sample size | 91 records (9.92%) |
-| Last export | 2026-04-07T22:33:12.025938+00:00 |
+| Full dataset size | 817 records |
+| Free sample size | 81 records (9.91%) |
+| Last export | 2026-04-15T04:19:07.462620+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/restaurant-verified-email-access-in-san-antonio-texas-us-sample-113773/releases/download/sample-latest/beamstation_113773_restaurants-us-tx_SAMPLE_DIST.csv) |
 
 ## What is in this sample
